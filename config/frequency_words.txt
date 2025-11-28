@@ -22,7 +22,7 @@ chatgpt
 openai
 sora
 
-ai
+AI
 !gai
 人工智能
 
@@ -33,8 +33,11 @@ BTC
 ETH
 以太坊
 Ethereum
-美国非农就业数据
+!预测
+
+美国非农就业
 Non-Farm Payrolls
++数据
 
 
 
